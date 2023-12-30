@@ -2,4 +2,5 @@ remote_theme: pages-themes/slate@v0.2.0
 plugins:
 - jekyll-remote-theme
 title: [Aerys Āeksio]
-description: [A short description of your site's purpose]
+description: [My new site]
+show_downloads: true ["true" or "false" (unquoted) to indicate whether to 
